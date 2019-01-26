@@ -137,6 +137,18 @@ font-size: 1.25em;
 font-weight: bold;
 }
 
+.nyc1{
+    color: rgb(228, 234, 240);
+    font-size: 3.5em;
+    font-weight: bold;
+}
+
+.nyc2{
+    color: rgb(228, 234, 240);
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
 
 /* Work Exp Section */
 .workexpcontent{
